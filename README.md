@@ -6,6 +6,7 @@ My main programming language is **Python3**, but I'm learning to expand it to ot
 - :video_camera: [vthell](https://github.com/noaione/vthell): A streaming recording tools mainly for VTubers.
 - :tv: [mpv-discordRPC](https://github.com/noaione/mpv-discordRPC): A DRPC for mpv media player
 - :robot: [naoTimes](https://github.com/noaione/naoTimes): A Discord bot that tracks Fansub progress of their projects.
+- 📁 [ihaCDN-server](https://github.com/noaione/ihacdn-server): A Sanic based file hosting server with ShareX compatibility in mind.
 
 ---
 
@@ -15,6 +16,8 @@ My main programming language is **Python3**, but I'm learning to expand it to ot
   <a href="https://twitter.com/nao0809_"><img src="https://img.shields.io/badge/Twitter-%40nao0809__-RGB(29%2C%20161%2C%20242)?style=flat-square&logo=twitter&labelColor=14171a" alt="Twitter"></a><br>
   <a href="https://api.ihateani.me/"><img src="https://img.shields.io/uptimerobot/status/m784962983-62a53810138b9371bbb3dc27?label=api.ihateani.me%20Status&style=flat-square&labelColor=14171a" alt="api.ihateani.me"></a>
   <a href="https://api.ihateani.me/"><img src="https://img.shields.io/uptimerobot/ratio/7/m784962983-62a53810138b9371bbb3dc27?label=api.ihateani.me%20Uptime&style=flat-square&labelColor=14171a" alt="API Uptime"></a>
+  <a href="https://p.ihateani.me/"><img src="https://img.shields.io/uptimerobot/status/m784617086-4e68d7e9dd7670f5c03bc09b?label=p.ihateani.me%20Status&style=flat-square&labelColor=14171a" alt="api.ihateani.me"></a>
+  <a href="https://p.ihateani.me/"><img src="https://img.shields.io/uptimerobot/ratio/7/m784617086-4e68d7e9dd7670f5c03bc09b?label=p.ihateani.me%20Uptime&style=flat-square&labelColor=14171a" alt="API Uptime"></a>
 </div>
 
-###### Also known as `NoAiOne` on other places (mainly game IGN).
+###### Also known as `N4O` on other places (mainly Discord).
