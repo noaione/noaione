@@ -1,6 +1,10 @@
 :pencil: Currently stuck on something called VTubers Hole<br>
 My main programming language is **Python3**, but I'm learning to expand it to other language.
 
+**GPG Signing Key**: [`244E CC43 43B0 E617 ECC4  775A C6AA 2F30 908B 72EC`](https://n4o.xyz/keys/908B72EC.asc)<br>
+`noaione <noaione0809@gmail.com>`<br>
+Except stated otherwise, I will use that key to sign my commits and files.
+
 # Stuff I worked on.
 - :watch: [vtb-schedule](https://github.com/noaione/vtb-schedule): An API endpoint and scheduler that tracks livestream, mainly designed for VTubers.
 - :video_camera: [vthell](https://github.com/noaione/vthell): A streaming recording tools mainly for VTubers.
