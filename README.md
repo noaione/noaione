@@ -6,11 +6,11 @@ My main programming language is **Python3**, but I'm learning to expand it to ot
 Except stated otherwise, I will use that key to sign my commits and files.
 
 # Stuff I worked on.
-- :watch: [vtb-schedule](https://github.com/noaione/vtb-schedule): An API endpoint and scheduler that tracks livestream, mainly designed for VTubers.
+- :watch: [vtb-schedule](https://github.com/ihateani-me/vtb-schedule): An API endpoint and scheduler that tracks livestream, mainly designed for VTubers.
 - :video_camera: [vthell](https://github.com/noaione/vthell): A streaming recording tools mainly for VTubers.
 - :tv: [mpv-discordRPC](https://github.com/noaione/mpv-discordRPC): A DRPC for mpv media player
 - :robot: [naoTimes](https://github.com/noaione/naoTimes): A Discord bot that tracks Fansub progress of their projects.
-- 📁 [ihaCDN-server](https://github.com/noaione/ihacdn-server): A Sanic based file hosting server with ShareX compatibility in mind.
+- 📁 [ihaCDN-server](https://github.com/ihateani-me/ihacdn-server): A Sanic based file hosting server with ShareX compatibility in mind.
 
 ---
 
