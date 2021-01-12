@@ -7,6 +7,7 @@ Except stated otherwise, I will use that key to sign my commits and files.
 
 # Stuff I worked on.
 - :watch: [vtb-schedule](https://github.com/ihateani-me/vtb-schedule): An API endpoint and scheduler that tracks livestream, mainly designed for VTubers.
+  - :watch: A better version of it: [vtscheduler-ts](https://github.com/ihateani-me/vtscheduler-ts)
 - :video_camera: [vthell](https://github.com/noaione/vthell): A streaming recording tools mainly for VTubers.
 - :tv: [mpv-discordRPC](https://github.com/noaione/mpv-discordRPC): A DRPC for mpv media player
 - :robot: [naoTimes](https://github.com/noaione/naoTimes): A Discord bot that tracks Fansub progress of their projects.
