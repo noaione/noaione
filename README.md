@@ -40,7 +40,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=noaione&no-frame=true&no-bg=true&theme=onedark" alt="Trophies" />
-  <caption>Generated using <a href="https://github.com/ryo-ma/github-profile-trophy">github-profile-trophy</a></caption>
 </div>
 
 ---
