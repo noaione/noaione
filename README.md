@@ -38,6 +38,13 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=noaione&no-frame=true&no-bg=true&theme=onedark" alt="Trophies">
+  <small>Generated using <a href="https://github.com/ryo-ma/github-profile-trophy">github-profile-trophy</a></small>
+</div>
+
+---
+
 **GPG Signing Key**: [`244E CC43 43B0 E617 ECC4  775A C6AA 2F30 908B 72EC`](https://n4o.xyz/keys/908B72EC.asc)<br>
 `noaione <noaione0809@gmail.com>`<br>
 Except stated otherwise, I will use that key to sign my commits and files.
