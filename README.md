@@ -21,7 +21,7 @@
   - 📂 [ihaCDN-server-ts](https://github.com/ihateani-me/ihacdn-server-ts): A rewrite version in TypeScript
 
 ### :pencil: Some Statistics
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=noaione&show_icons=true&count_private=true&theme=gotham&custom_title=GitHub%20Stats&hide_title=true&disable_animations=true) ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noaione&langs_count=8&layout=compact&hide=ejs,css,html&theme=gotham)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=noaione&show_icons=true&count_private=true&theme=gotham&custom_title=GitHub%20Stats&hide_title=true&disable_animations=true) ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noaione&langs_count=10&layout=compact&hide=ejs,css,html&theme=gotham)
 
 ---
 
