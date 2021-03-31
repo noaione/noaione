@@ -17,6 +17,7 @@
 - :video_camera: [vthell](https://github.com/noaione/vthell): A streaming recording tools mainly for VTubers.
 - :tv: [mpv-discordRPC](https://github.com/noaione/mpv-discordRPC): A DRPC for mpv media player
 - :robot: [naoTimes](https://github.com/naoTimesdev/naoTimes): A Discord bot that tracks Fansub progress of their projects.
+  - :robot: 🌎 [naoTimes WebUI](https://github.com/naoTimesdev/webpanel): A web UI or Admin Dashboard for naoTimes Showtimes Module
 - 📁 [ihaCDN-server](https://github.com/ihateani-me/ihacdn-server): A Sanic based file hosting server with ShareX compatibility in mind.
   - 📂 [ihaCDN-server-ts](https://github.com/ihateani-me/ihacdn-server-ts): A rewrite version in TypeScript
 
