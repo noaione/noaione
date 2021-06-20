@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ihaapi-ts](https://github.com/ihateani-me/ihaapi-ts) / [vtshceduler-ts](https://github.com/ihateani-me/vtscheduler-ts)
 - 🌱 I’m currently learning **TypeScript** / **C#** / **Rust**
-- 📝 I sometimes write articles on [https://blog.n4o.xyz](https://blog.n4o.xyz) (ID) or [https://blog.n4o.xyz](https://blog.n4o.xyz/en) (EN)
+- 📝 I sometimes write articles on [blog.n4o.xyz](https://blog.n4o.xyz) (ID) or [blog.n4o.xyz](https://blog.n4o.xyz/en/) (EN)
 - 📫 You can reach me via **hi@n4o.xyz** or **Discord: N4O#8868**
 
 🔠 **Techy Stuff**
