@@ -1,14 +1,9 @@
 ### :wave: Hello there!
-:pencil: A guy that currently stuck on something called VTubers Hole<br>
 
-- 🔭 I’m currently working on [ihaapi-ts](https://github.com/ihateani-me/ihaapi-ts) / [vtshceduler-ts](https://github.com/ihateani-me/vtscheduler-ts)
-- 🌱 I’m currently learning **TypeScript** / **C#** / **Rust**
-- 📝 I sometimes write articles on [blog.n4o.xyz](https://blog.n4o.xyz) (ID) or [blog.n4o.xyz](https://blog.n4o.xyz/en/) (EN)
-- 📫 You can reach me via **hi@n4o.xyz** or **Discord: N4O#8868**
+I'm a undergraduate student learning machine learning and trying to write leggible code for the Internet.<br />
+I also like watching VTuber for some reason.
 
-🔠 **Techy Stuff**
-
-![IDE_VSCode](https://img.shields.io/badge/IDE-VSCode-informational?style=flat-square&logo=visual%20studio%20code&logoColor=white&color=2bbc8a) ![Code_Python3](https://img.shields.io/badge/Code-Python%203-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a) ![Code_JS](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a) ![Code_TS](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=2bbc8a) ![DB_Mongo](https://img.shields.io/badge/DB-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a) ![DB_Redis](https://img.shields.io/badge/DB-Redis-informational?style=flat-square&logo=redis&logoColor=white&color=2bbc8a) ![Framework_Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat-square&logo=flask&logoColor=white&color=2bbc8a) ![Backend_Node](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat-square&logo=node.js&logoColor=white&color=2bbc8a) ![Backend_ExpressJS](https://img.shields.io/badge/Backend-ExpressJS-informational?style=flat-square&logo=express&logoColor=white&color=2bbc8a) ![Backend_GQL](https://img.shields.io/badge/Backend-GraphQL-informational?style=flat-square&logo=graphql&logoColor=white&color=2bbc8a) ![Backend_Nginx](https://img.shields.io/badge/Backend-Nginx-informational?style=flat-square&logo=nginx&logoColor=white&color=2bbc8a) ![DevOps_CircleCI](https://img.shields.io/badge/DevOps-CircleCI-informational?style=flat-square&logo=circleci&logoColor=white&color=2bbc8a) ![DevOps_GitHub Actions](https://img.shields.io/badge/DevOps-GitHub%20Actions-informational?style=flat-square&logo=github%20actions&logoColor=white&color=2bbc8a) ![OS_Win](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=2bbc8a) ![OS_Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
+You can reach me via **hi@n4o.xyz** or **Discord: N4O#8868**
 
 ### ✍ Stuff I worked on.
 - :watch: [vtb-schedule](https://github.com/ihateani-me/vtb-schedule): An API endpoint and scheduler that tracks livestream, mainly designed for VTubers.
@@ -40,14 +35,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noaione&no-frame=true&no-bg=true&theme=onedark" alt="Trophies" />
-</div>
-
----
-
 **GPG Signing Key**: [`244E CC43 43B0 E617 ECC4  775A C6AA 2F30 908B 72EC`](https://n4o.xyz/keys/908B72EC.asc)<br>
 `noaione <noaione0809@gmail.com>`<br>
 Except stated otherwise, I will use that key to sign my commits and files.
 
-Other keys can be seen here: [n4o.xyz](https://n4o.xyz)
+Other GPG keys that I might be using can be seen [here](https://n4o.xyz/#/keys)
