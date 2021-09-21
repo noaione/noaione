@@ -33,10 +33,6 @@ You can reach me via **hi@n4o.xyz** or **Discord: N4O#8868**
 
 ###### Also known as `N4O` on other places (mainly Discord).
 
+[`GPG`](https://n4o.xyz/#/keys)
+
 ---
-
-**GPG Signing Key**: [`244E CC43 43B0 E617 ECC4  775A C6AA 2F30 908B 72EC`](https://n4o.xyz/keys/908B72EC.asc)<br>
-`noaione <noaione0809@gmail.com>`<br>
-Except stated otherwise, I will use that key to sign my commits and files.
-
-Other GPG keys that I might be using can be seen [here](https://n4o.xyz/#/keys)
