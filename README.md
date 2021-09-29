@@ -5,6 +5,8 @@ I also like watching VTuber for some reason.
 
 You can reach me via **hi@n4o.xyz** or **Discord: N4O#8868**
 
+![Spotify: Currently playing](https://img.shields.io/endpoint?url=https://naotimes-og.glitch.me/shields/spotify-now&style=for-the-badge)
+
 ### ✍ Stuff I worked on.
 - :watch: [vtb-schedule](https://github.com/ihateani-me/vtb-schedule): An API endpoint and scheduler that tracks livestream, mainly designed for VTubers.
   - :watch: A better version of it: [vtscheduler-ts](https://github.com/ihateani-me/vtscheduler-ts)
