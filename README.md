@@ -17,6 +17,7 @@ You can reach me via **hi@n4o.xyz** or **Discord: N4O#8868**
   - :robot: 🌎 [naoTimes WebUI](https://github.com/naoTimesdev/webpanel): A web UI or Admin Dashboard for naoTimes Showtimes Module
 - 📁 [ihaCDN-server](https://github.com/ihateani-me/ihacdn-server): A Sanic based file hosting server with ShareX compatibility in mind.
   - 📂 [ihaCDN-server-ts](https://github.com/ihateani-me/ihacdn-server-ts): A rewrite version in TypeScript
+- 🎵 [spotilava](https://github.com/noaione/spotilava): A intermediary web server between Spotify and Lavalink/Lavaplayer to play Spotify audio directly.
 
 ### :pencil: Some Statistics
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=noaione&show_icons=true&count_private=true&theme=gotham&custom_title=GitHub%20Stats&hide_title=true&disable_animations=true) ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noaione&langs_count=10&layout=compact&hide=ejs,css,html&theme=gotham)
