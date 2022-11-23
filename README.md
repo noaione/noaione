@@ -36,6 +36,5 @@ You can reach me via **hi@n4o.xyz** or **Discord: N4O#8868**
 
 ###### Also known as `N4O` on other places (mainly Discord).
 
-[`GPG`](https://n4o.xyz/#/keys)
-
+[`GPG`](https://n4o.xyz/#/keys) | <a rel="me" href="https://mstdn.id/@noaione">@noaione@mstdn.id</a>
 ---
