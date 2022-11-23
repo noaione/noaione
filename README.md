@@ -27,7 +27,8 @@ You can reach me via **hi@n4o.xyz** or **Discord: N4O#8868**
 <div align="center">
   <a href="https://n4o.xyz">Website: n4o.xyz</a><br/><br/>
   <img src="https://img.shields.io/badge/Discord-N4O%238868-RGB(114%2C%20137%2C%20218)?style=flat-square&logo=discord&labelColor=2C2F33&color=7289DA" alt="Discord">
-  <a href="https://twitter.com/nao0809_"><img src="https://img.shields.io/badge/Twitter-%40nao0809__-RGB(29%2C%20161%2C%20242)?style=flat-square&logo=twitter&labelColor=14171a&color=1DA1F2" alt="Twitter"></a><br>
+  <a href="https://twitter.com/nao0809_"><img src="https://img.shields.io/badge/Twitter-%40nao0809__-RGB(29%2C%20161%2C%20242)?style=flat-square&logo=twitter&labelColor=14171a&color=1DA1F2" alt="Twitter"></a>
+  <a rel="me" href="https://mstdn.id/@noaione"><img src="https://img.shields.io/badge/mastodon-%40noaione%40mstdn.id-%236364ff?style=flat-square&logo=mastodon&labelColor=2C2F33" alt="Mastodon"></a><br>
   <a href="https://api.ihateani.me/"><img src="https://img.shields.io/uptimerobot/status/m784962983-62a53810138b9371bbb3dc27?label=ihaAPI%20Status&style=flat-square&labelColor=14171a" alt="ihaAPI Status"></a>
   <a href="https://api.ihateani.me/"><img src="https://img.shields.io/uptimerobot/ratio/7/m784962983-62a53810138b9371bbb3dc27?label=ihaAPI%20Uptime&style=flat-square&labelColor=14171a" alt="ihaAPI Uptime"></a>
   <a href="https://p.ihateani.me/"><img src="https://img.shields.io/uptimerobot/status/m784617086-4e68d7e9dd7670f5c03bc09b?label=ihaCDN%20Status&style=flat-square&labelColor=14171a" alt="ihaCDN Status"></a
@@ -36,5 +37,5 @@ You can reach me via **hi@n4o.xyz** or **Discord: N4O#8868**
 
 ###### Also known as `N4O` on other places (mainly Discord).
 
-[`GPG`](https://n4o.xyz/#/keys) | <a rel="me" href="https://mstdn.id/@noaione">@noaione@mstdn.id</a>
+[`GPG`](https://n4o.xyz/#/keys)
 ---
