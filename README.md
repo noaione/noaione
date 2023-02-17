@@ -18,9 +18,9 @@
 
 <div align="center">
   <a href="https://n4o.xyz"><img src="https://img.shields.io/badge/Website-n4o.xyz-D4933D?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a><br/><br/>
-  <img src="https://img.shields.io/badge/Discord-N4O%238868-RGB(114%2C%20137%2C%20218)?style=flat-square&logo=discord&labelColor=2C2F33&color=7289DA&logoColor=white" alt="Discord">
+  <img src="https://img.shields.io/badge/Discord-N4O%238868-5865F2?style=flat-square&logo=discord&labelColor=2c2f33&color=5865F2&logoColor=white" alt="Discord">
   <a href="https://twitter.com/nao0809_"><img src="https://img.shields.io/badge/Twitter-%40nao0809__-RGB(29%2C%20161%2C%20242)?style=flat-square&logo=twitter&labelColor=14171a&color=1DA1F2" alt="Twitter"></a>
-  <a rel="me" href="https://mstdn.id/@noaione"><img src="https://img.shields.io/badge/mastodon-%40noaione%40mstdn.id-%236364ff?style=flat-square&logo=mastodon&labelColor=2C2F33" alt="Mastodon"></a>
+  <a rel="me" href="https://mstdn.id/@noaione"><img src="https://img.shields.io/badge/mastodon-%40noaione%40mstdn.id-6364FF?style=flat-square&logo=mastodon&labelColor=2C2F33" alt="Mastodon"></a>
   <a href="mailto:hi@n4o.xyz"><img src="https://img.shields.io/badge/Email-hi%40n4o.xyz-0078D4?style=flat-square&logo=mail.ru&logoColor=white" alt="Email"/></a><br>
   <a href="https://api.ihateani.me/"><img src="https://img.shields.io/uptimerobot/status/m784962983-62a53810138b9371bbb3dc27?label=ihaAPI%20Status&style=flat-square&labelColor=14171a" alt="ihaAPI Status"></a>
   <a href="https://api.ihateani.me/"><img src="https://img.shields.io/uptimerobot/ratio/7/m784962983-62a53810138b9371bbb3dc27?label=ihaAPI%20Uptime&style=flat-square&labelColor=14171a" alt="ihaAPI Uptime"></a>
