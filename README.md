@@ -5,7 +5,10 @@
   <img src="https://cdn.discordapp.com/emojis/768851412695646256.gif?size=96&quality=lossless" alt=":SubaruWavyYay:" />
   <br /><br />
   <a href="https://open.spotify.com/user/oel3ohhl9sdrzh3prkd3s9xq6?si=f94c2fdbd7ed4174"><img src="https://img.shields.io/endpoint?url=https://naotimes-og.glitch.me/shields/spotify-now&style=for-the-badge" alt="Spotify: Now Playing" /></a>
+  <br/><br/>
+Currently working on <a href="https://github.com/naoTimesdev/showtimes-rs">Showtimes</a> Rust Rewrite <sup>(really slowly)</sup>
 </div>
+
 <br/>
 <div align="center">
   <h2>Stats</h2><br/>
