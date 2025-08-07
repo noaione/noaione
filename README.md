@@ -29,10 +29,10 @@ Currently working on <a href="https://github.com/naoTimesdev/showtimes-rs">Showt
   <a rel="me" href="https://misskey.id/@noaione" title="Misskey: @noaione@misskey.id"><img src="https://img.shields.io/badge/misskey-%40noaione%40misskey.id-63e2b7?style=flat-square&logo=misskey&labelColor=101014" alt="Mastodon" /></a>
   <a href="mailto:hi@n4o.xyz" title="Email: hi@n4o.xyz"><img src="https://img.shields.io/badge/Email-hi%40n4o.xyz-0078D4?style=flat-square&logo=mail.ru&logoColor=white" alt="Email" /></a>
   <br />
-  <a href="https://api.ihateani.me/"><img src="https://img.shields.io/uptimerobot/status/m784962983-62a53810138b9371bbb3dc27?label=ihaAPI%20Status&style=flat-square&labelColor=14171a" alt="ihaAPI Status" /></a>
-  <a href="https://api.ihateani.me/"><img src="https://img.shields.io/uptimerobot/ratio/7/m784962983-62a53810138b9371bbb3dc27?label=ihaAPI%20Uptime&style=flat-square&labelColor=14171a" alt="ihaAPI Uptime" /></a>
-  <a href="https://p.ihateani.me/"><img src="https://img.shields.io/uptimerobot/status/m784617086-4e68d7e9dd7670f5c03bc09b?label=ihaCDN%20Status&style=flat-square&labelColor=14171a" alt="ihaCDN Status" /></a>
-  <a href="https://p.ihateani.me/"><img src="https://img.shields.io/uptimerobot/ratio/7/m784617086-4e68d7e9dd7670f5c03bc09b?label=ihaCDN%20Uptime&style=flat-square&labelColor=14171a" alt="ihaCDN Uptime" /></a>
+  <a href="https://api.ihateani.me/"><img src="https://status.n4o.xyz/badge/iha-api/status?labelColor=14171a&color=&style=flat-square&label=ihaAPI%20Status" alt="ihaAPI Status" /></a>
+  <a href="https://api.ihateani.me/"><img src="https://status.n4o.xyz/badge/iha-api/uptime?labelColor=14171a&color=7a44dc&style=flat-square&label=ihaAPI%20Uptime&sinceLast=604800&hideDuration=true" alt="ihaAPI Uptime" /></a>
+  <a href="https://p.ihateani.me/"><img src="https://status.n4o.xyz/badge/iha-cdn/status?labelColor=14171a&color=&style=flat-square&label=ihaAPI%20Status" alt="ihaCDN Status" /></a>
+  <a href="https://p.ihateani.me/"><img src="https://status.n4o.xyz/badge/iha-cdn/uptime?labelColor=14171a&color=7a44dc&style=flat-square&label=ihaAPI%20Uptime&sinceLast=604800&hideDuration=true" alt="ihaCDN Uptime" /></a>
   <br /><br />
   <a href="https://n4o.xyz/keys/908B72EC.asc"><img src="https://img.shields.io/badge/GPG-908B%2072EC-4DB3A6?style=flat-square&logo=keepassxc&logoColor=4DB3A6" alt="GPG: 908B 72EC (Default)" title="GPG: 908B 72EC (Default)" /></a>
   <a href="https://n4o.xyz/keys/661C50D4.asc"><img src="https://img.shields.io/badge/GPG-661C%2050D4-6791D0?style=flat-square&logo=keepassxc&logoColor=6791D0" alt="GPG: 661C 50D4" title="GPG: 661C 50D4" /></a>
