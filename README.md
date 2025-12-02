@@ -10,12 +10,6 @@ Currently working on <a href="https://github.com/naoTimesdev/showtimes-rs">Showt
 </div>
 
 <br/>
-<div align="center">
-  <h2>Stats</h2><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=noaione&show_icons=true&count_private=true&theme=gotham&custom_title=GitHub%20Stats&hide_title=true&disable_animations=true" alt="GitHub Statistics" title="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noaione&langs_count=10&layout=compact&hide=ejs,css,html,markdown&theme=gotham" alt="Prograaming Language Stats" title="Prograaming Language Stats" />
-</div>
-<br/>
 
 ---
 
