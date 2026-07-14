@@ -11,8 +11,6 @@ Currently working on <a href="https://github.com/naoTimesdev/showtimes-rs">Showt
 
 <br/>
 
----
-
 <div align="center">
   <a href="https://n4o.xyz"><img src="https://img.shields.io/badge/Website-n4o.xyz-D4933D?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <br /><br />
@@ -31,4 +29,10 @@ Currently working on <a href="https://github.com/naoTimesdev/showtimes-rs">Showt
   <a href="https://n4o.xyz/keys/908B72EC.asc"><img src="https://img.shields.io/badge/GPG-908B%2072EC-4DB3A6?style=flat-square&logo=keepassxc&logoColor=4DB3A6" alt="GPG: 908B 72EC (Default)" title="GPG: 908B 72EC (Default)" /></a>
   <a href="https://n4o.xyz/keys/661C50D4.asc"><img src="https://img.shields.io/badge/GPG-661C%2050D4-6791D0?style=flat-square&logo=keepassxc&logoColor=6791D0" alt="GPG: 661C 50D4" title="GPG: 661C 50D4" /></a>
   <a href="https://n4o.xyz/#/keys"><img src="https://img.shields.io/badge/GPG-See%20all-7C67D0?style=flat-square&logo=keepassxc&logoColor=white" alt="GPG: See all" title="GPG: See all" /></a>
+</div>
+
+<br />
+
+<div align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=noaione&layout=compact&langs_count=10&exclude_repo=poppler_mirror&hide=markdown&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_color=313244&border_radius=0" alt="Language stats">
 </div>
